@@ -4,6 +4,9 @@
     padding: 0;
 }
 
-body {
-    font-family: 'Nunito', sans-serif;
+main,
+nav,
+section,
+footer {
+    font-family: 'Montserrat', sans-serif;
 }
